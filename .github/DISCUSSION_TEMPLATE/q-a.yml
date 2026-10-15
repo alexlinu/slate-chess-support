@@ -1,0 +1,16 @@
+title: "[Question] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "Check the [FAQ](https://github.com/alexlinu/slate-chess-support/blob/main/FAQ.md) first. Don't post personal or payment information."
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and Slate Chess version (if relevant)

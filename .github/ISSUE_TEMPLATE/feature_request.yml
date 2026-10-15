@@ -1,0 +1,20 @@
+name: Feature request
+description: Propose something for Slate Chess (prefer Discussions › Ideas for open-ended ideas)
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What are you trying to do?
+      description: Describe the problem or goal, not just the solution.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+  - type: input
+    id: level
+    attributes:
+      label: Your approximate level (optional)
+      placeholder: e.g. 1400

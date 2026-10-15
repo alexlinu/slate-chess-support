@@ -1,0 +1,9 @@
+title: ""
+body:
+  - type: textarea
+    id: share
+    attributes:
+      label: What would you like to share?
+      description: A game (paste the PGN), a position (paste the FEN), or how you use Slate Chess.
+    validations:
+      required: true

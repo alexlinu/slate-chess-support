@@ -1,0 +1,46 @@
+name: Bug report
+description: Something in Slate Chess isn't working as expected
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us fix it. **Don't include personal or payment information.** Anything you post here is public.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open a game\n2. Tap Review\n3. ..."
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      options: [iPhone, iPad, Mac, Apple TV, Apple Vision Pro]
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: OS version
+      placeholder: e.g. iOS 26.1
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Slate Chess version and build
+      placeholder: e.g. 0.9.0 (123), TestFlight or App Store
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots, game PGN or other details
+      description: Drag in screenshots. If the problem involves a specific game, paste its PGN.
