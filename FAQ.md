@@ -43,4 +43,4 @@ Apple handles these. Manage subscriptions in your Apple Account settings, and re
 
 ## Still stuck?
 
-Ask in [Q&A](https://github.com/alexlinu/slate-chess-support/discussions/categories/q-a) or email hello@slatechess.com.
+Ask in [Q&A](https://github.com/alexlinu/slate-chess-support/discussions/categories/q-a) or email support@slatechess.com.

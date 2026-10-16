@@ -14,7 +14,7 @@ Website: [slatechess.com](https://slatechess.com)
 | Show a game, a position or how you use Slate | [Discussions › Show and tell](https://github.com/alexlinu/slate-chess-support/discussions/categories/show-and-tell) |
 | Read announcements and release notes | [Discussions › Announcements](https://github.com/alexlinu/slate-chess-support/discussions/categories/announcements) |
 | Find quick answers | [FAQ](FAQ.md) |
-| Contact us privately (billing, privacy, press) | [hello@slatechess.com](mailto:hello@slatechess.com) |
+| Contact us privately (billing, privacy, press) | [support@slatechess.com](mailto:support@slatechess.com) |
 
 Purchases and subscriptions are handled by Apple: use [Apple's support](https://support.apple.com/billing) for refunds and billing.
 
