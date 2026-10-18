@@ -25,7 +25,7 @@ It may collect anonymous usage statistics to improve the app. You can turn this 
 ## Using the app
 
 **How strong is Slate?**
-About 3,150 on an engine rating scale. That is our own unofficial measurement (CCRL 40/15 scale, October 2026), and engine ratings aren't comparable with human ratings. [How we measure](https://slatechess.com/#strength).
+At full strength, Slate plays on Lichess as the bot account `slate-engine`, where its blitz rating is currently about 2,470 ([see it live](https://lichess.org/@/slate-engine)). Bot ratings form their own pool, mostly games against other bots, so they don't translate into human or FIDE ratings. In the app you rarely meet full strength: you choose a level, from beginner to grandmaster, each with an approximate human rating.
 
 **How accurate are the opponent levels?**
 Levels from about 400 to grandmaster are approximate and calibrated against models of human play.
