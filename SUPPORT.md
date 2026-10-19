@@ -1,7 +1,7 @@
 # Getting support
 
-- **Questions and ideas:** [Discussions](https://github.com/alexlinu/slate-chess-support/discussions)
-- **Bugs:** [open an issue](https://github.com/alexlinu/slate-chess-support/issues/new/choose)
+- **Questions and ideas:** [Discussions](https://github.com/slate-chess/support/discussions)
+- **Bugs:** [open an issue](https://github.com/slate-chess/support/issues/new/choose)
 - **Billing and refunds:** handled by Apple at https://support.apple.com/billing
 - **Private matters:** support@slatechess.com
 

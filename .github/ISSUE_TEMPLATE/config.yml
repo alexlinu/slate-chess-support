@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: Ask a question
-    url: https://github.com/alexlinu/slate-chess-support/discussions/categories/q-a
+    url: https://github.com/slate-chess/support/discussions/categories/q-a
     about: Questions about how Slate Chess works go in Discussions.
   - name: Suggest a feature
-    url: https://github.com/alexlinu/slate-chess-support/discussions/categories/ideas
+    url: https://github.com/slate-chess/support/discussions/categories/ideas
     about: Share ideas in Discussions so others can vote and comment.
   - name: Billing and refunds
     url: https://support.apple.com/billing

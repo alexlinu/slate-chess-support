@@ -9,7 +9,7 @@ A chess coach for iPhone, iPad, Mac, Apple TV and Apple Vision Pro. It reviews y
 Slate is the chess engine inside the app, written from scratch in Swift. Slate Chess is the app; Slate is the engine.
 
 **Is it available yet?**
-Not yet. Follow the [Announcements](https://github.com/alexlinu/slate-chess-support/discussions/categories/announcements) for news, and sign up for the beta at [slatechess.com](https://slatechess.com).
+Not yet. Follow the [Announcements](https://github.com/slate-chess/support/discussions/categories/announcements) for news, and sign up for the beta at [slatechess.com](https://slatechess.com).
 
 **How much does it cost?**
 Pricing hasn't been announced.
@@ -43,4 +43,4 @@ Apple handles these. Manage subscriptions in your Apple Account settings, and re
 
 ## Still stuck?
 
-Ask in [Q&A](https://github.com/alexlinu/slate-chess-support/discussions/categories/q-a) or email support@slatechess.com.
+Ask in [Q&A](https://github.com/slate-chess/support/discussions/categories/q-a) or email support@slatechess.com.

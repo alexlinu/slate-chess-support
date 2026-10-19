@@ -8,11 +8,11 @@ Website: [slatechess.com](https://slatechess.com)
 
 | I want to... | Go here |
 |---|---|
-| Ask how something works | [Discussions › Q&A](https://github.com/alexlinu/slate-chess-support/discussions/categories/q-a) |
-| Suggest a feature or share an idea | [Discussions › Ideas](https://github.com/alexlinu/slate-chess-support/discussions/categories/ideas) |
-| Report a bug | [New bug report](https://github.com/alexlinu/slate-chess-support/issues/new?template=bug_report.yml) |
-| Show a game, a position or how you use Slate | [Discussions › Show and tell](https://github.com/alexlinu/slate-chess-support/discussions/categories/show-and-tell) |
-| Read announcements and release notes | [Discussions › Announcements](https://github.com/alexlinu/slate-chess-support/discussions/categories/announcements) |
+| Ask how something works | [Discussions › Q&A](https://github.com/slate-chess/support/discussions/categories/q-a) |
+| Suggest a feature or share an idea | [Discussions › Ideas](https://github.com/slate-chess/support/discussions/categories/ideas) |
+| Report a bug | [New bug report](https://github.com/slate-chess/support/issues/new?template=bug_report.yml) |
+| Show a game, a position or how you use Slate | [Discussions › Show and tell](https://github.com/slate-chess/support/discussions/categories/show-and-tell) |
+| Read announcements and release notes | [Discussions › Announcements](https://github.com/slate-chess/support/discussions/categories/announcements) |
 | Find quick answers | [FAQ](FAQ.md) |
 | Contact us privately (billing, privacy, press) | [support@slatechess.com](mailto:support@slatechess.com) |
 
