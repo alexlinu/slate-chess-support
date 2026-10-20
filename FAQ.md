@@ -3,7 +3,7 @@
 ## About Slate Chess
 
 **What is Slate Chess?**
-A chess coach for iPhone, iPad, Mac, Apple TV and Apple Vision Pro. It reviews your games and explains mistakes in plain language, plays opponents at your level, and helps you train what costs you points.
+A chess coach for iPhone, iPad, Mac and Apple TV. It reviews your games and explains mistakes in plain language, plays opponents at your level, and helps you train what costs you points.
 
 **What is Slate?**
 Slate is the chess engine inside the app, written from scratch in Swift. Slate Chess is the app; Slate is the engine.

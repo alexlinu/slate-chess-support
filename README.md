@@ -1,6 +1,6 @@
 # Slate Chess Support & Community
 
-Welcome. This is the home for help, questions, ideas and bug reports for **Slate Chess**, the chess coach for iPhone, iPad, Mac, Apple TV and Apple Vision Pro, powered by Slate, our own chess engine.
+Welcome. This is the home for help, questions, ideas and bug reports for **Slate Chess**, the chess coach for iPhone, iPad, Mac and Apple TV, powered by Slate, our own chess engine.
 
 Website: [slatechess.com](https://slatechess.com)
 

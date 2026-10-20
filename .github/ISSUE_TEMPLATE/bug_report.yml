@@ -22,7 +22,7 @@ body:
     id: device
     attributes:
       label: Device
-      options: [iPhone, iPad, Mac, Apple TV, Apple Vision Pro]
+      options: [iPhone, iPad, Mac, Apple TV]
     validations:
       required: true
   - type: input
